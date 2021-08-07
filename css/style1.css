@@ -1,0 +1,59 @@
+/* h3{
+color: violet;
+}  */
+ /* .heads
+ {
+     color: green;
+ }
+ #parag{
+     color: hotpink;
+ }
+ h3{
+  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 50px;
+ }
+ h1{
+     font: 40px 'Arial';
+ }
+ a{
+     text-decoration: none;
+     text-transform: uppercase;
+     letter-spacing: 0.2em;
+     word-spacing: 02em; }*/
+
+   #images
+     {
+         position: relative;
+    height: 100%;
+    width: 100%; 
+
+    /* top: 0px;
+    left: 0px; */
+     }
+     
+   #images1
+   {
+       position: absolute;
+       top: 85px;
+   left: 190px;
+  /* right: 40px; 
+  bottom: 20px; */
+}
+   #pic{
+    border-radius: 250px;
+
+   }
+   
+   #images2{
+       
+       position: absolute;
+       top: 170px;
+   left: 550px;
+   }
+  
+
+  
+  
+   
+     

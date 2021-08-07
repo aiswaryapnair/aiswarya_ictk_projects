@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size:cover;
+}
+header{
+    background-color: black;
+    height: 5em;
+}
+img{
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.heads-tags{
+    float: right;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+.heads-tags a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+    margin-right: 12px;
+}
+.heads-tags a:hover{
+    background-color: teal;
+    color: black;
+    transition: 0.5s ease-in-out;
+
+}
+.sidebar{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 100px;
+}
+.sidebar li{
+    list-style: square;
+    padding: 4px;
+}
+/* form */
+.login-form{
+    float: right;
+    border: 2px solid darkblue;
+    background-color:linen;
+    height: 13em;
+    margin-top: 5%;
+    margin-right: 10px;
+    padding: 20px;
+}
+.login-form h3{
+    text-align: center;
+}
+.login-form input{
+    height: 100%;
+}
+.login-form #log-submit{
+    width:100%;
+    height: 1.5em;
+    background-color:dodgerblue;
+    border: 1px solid dodgerblue;
+}
+/* p-box */
+.container{
+    border: 5px soli black;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+.container a{
+    color: red;
+    text-decoration: none;
+    
+}
+.p-boxes{
+    border: 2px solid white ;
+     background-color:lightskyblue; 
+    width: 23%;
+    float:left;
+    margin-left: 10px;
+    height: 17em;
+    padding:2px;
+
+}
+.p-boxes h3{
+    text-align: center; 
+    line-height: 1.25em;
+
+}
+.p-boxes p{
+    line-height: 1.25em;
+    text-align: justify;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 1.5em;
+  margin-top: 30% ;
+}
